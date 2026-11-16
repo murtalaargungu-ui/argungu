@@ -1,0 +1,28 @@
+.bcontainer{
+	background-color:rgba(0,0,9,0.6);
+		font-color:red;
+		margin-top:-2%;
+	
+}
+ul{
+	list-style:none;
+	word-spacing:150px;
+	align-content:center;
+	font-size:35px;
+	font-family:sans-serif;
+
+	
+	}
+	li{ border:5px solid gray;
+	border-radius:12px;
+	background:rgba(3,5,6,0.7);
+	
+	}
+	bcontainer{
+		margin-top:0%;
+	}
+
+li{display:inline-block;
+	word-spacing:normal;
+	padding-top:0px;
+}

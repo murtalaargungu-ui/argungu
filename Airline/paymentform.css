@@ -1,0 +1,76 @@
+.paycontainer{
+	margin-top:5px;
+	margin-bottom:100px;
+	margin-left:2%;
+	width:70%;
+	height:50%;
+	background-color:rgba(0,0,9,0.9);
+	padding-bottom:45%;
+	align-content:center;
+	padding-right:0%;
+	border-radius:35px;
+
+}
+
+.grouA{
+	
+
+position:relative;
+	right:53%;
+	top:50%;
+	margin-bottom:0%;
+	margin-left:10%;
+	float:right;
+
+}
+.grouB{
+position:relative;
+	left:30%;
+	top:-10%;
+	margin-bottom:0%;
+	margin-top:0%;
+	float:right;
+
+}
+.pyinput{
+	align-content:center;
+	width:300px;
+	height:30px;
+	
+
+}
+label{
+
+
+	color:pink;
+	font-size:30px;
+	position: relative;
+	float:left;
+
+
+}
+
+.placeholder{
+	color:blue;
+	font-weight:bolder;
+}
+.pybtn{
+	width:320px;
+	height:40px;
+	font-size:20px;
+	background-color:rgba(250,20,220,0.5);
+	font-weight:bolder;
+	border-radius:35px;
+}
+.pybtn2{
+	width:320px;
+	height:40px;
+	font-size:20px;
+	background-color:rgba(250,20,220,0.5);
+	font-weight:bolder;
+	border-radius:35px;
+	position:absolute;
+	top:1000%;
+	right:23%;
+
+}

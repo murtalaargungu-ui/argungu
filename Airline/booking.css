@@ -1,0 +1,70 @@
+body{margin-left:20%;
+	margin-right:5%;
+
+}
+
+.bookingdiv{
+	background-color:rgba(0,0,9,0.9);
+	width:43%;
+	padding-right:3%;
+	padding-left:3%;
+	padding-top:2%;
+	padding-bottom:7%;
+	border:solid;
+	border-radius:30px;
+	position:relative;
+	margin-bottom:10%;
+
+}
+.bookingh3{
+	color:blue;
+	font-weight:bolder;
+}
+
+
+label{
+	font-size:30px; 
+	color:green;
+	margin-left:0%;
+	margin-right:%;
+	position:relative;
+	left:13%;
+	float:left;
+
+}
+
+input{
+	 color:skyblue;
+	height:50px;
+	width:400px;
+	font-size:24px;
+	
+}
+#SUBMIT{
+	margin-top:2%;
+	width:150px;
+	height:45px;
+	color:blue;
+	font-weight:bolder;
+	font-size:20px;
+	background-color:rgba(12,133,9,0.5);
+}
+#state{
+width:130px;
+display:inline-block;
+word-spacing:273px;
+
+ 
+
+}
+form{
+	 
+	margin-left:0%;
+}
+p{
+	margin-right:0%;
+	padding-right:0%;
+}
+.heading{
+	padding-left:3%;
+}
